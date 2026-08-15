@@ -1,7 +1,8 @@
 {
 	"client": {
-		"host": "Please enter your server ip or url",
-		"port": "Please enter your server port",
+		"host": "CELESTIALSMPGC.aternos.me
+",
+		"port": "283631",
 		"username": "Please enter the bot's username you want"
 	},
 	
